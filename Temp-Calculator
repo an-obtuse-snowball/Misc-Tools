@@ -1,6 +1,6 @@
 #include <iostream>
 
-int main() {
+int AmericanTemperatureFixer() {
   
   double tempf = -100;
   double tempc;
